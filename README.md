@@ -2,7 +2,7 @@
 
 ### Hi, my name is Maxim 👋
 
-[![Linkedin: maximzubkov](https://img.shields.io/badge/-maximzubkov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxim-zubkov-8808421b1/)](https://www.linkedin.com/in/maxim-zubkov-8808421b1/)
+[![Linkedin: maximzubkov](https://img.shields.io/badge/maximzubkov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxim-zubkov-8808421b1/)](https://www.linkedin.com/in/maxim-zubkov-8808421b1/)
 ![Profile views](https://gpvc.arturio.dev/maximzubkov)
 
 I’m currently doing a Bachalor’s degree in Applied Mathematics and Computer Science at [MIPT](https://mipt.ru/english/). I’m also working as a Deep Learning Inter at VK Lab and JetBrains Research.
