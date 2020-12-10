@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ### Hi, my name is Maxim 👋
 
