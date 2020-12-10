@@ -8,9 +8,9 @@
 I’m currently doing a Bachalor’s degree in Applied Mathematics and Computer Science at [MIPT](https://mipt.ru/english/). I’m also working as a Deep Learning Inter at VK Lab and JetBrains Research.
 
 ### Work experience
-- Data science intern @ [Tinkoff Bank](https://www.sberbank.ru/en/about/about_sberbank) (01.07.2019 — 01.09.2019),
-- AI Research Intern @ [JetBrains Research ML4SE lab](https://www.sberbank.ru/en/about/about_sberbank) (01.07.2020 — until now),
-- AI Research Intern @ VK Lab (01.10.2020 — until now).
+- Data science intern @ [Tinkoff Bank](https://www.tinkoff.ru/eng/) (01.07.2019 — 01.09.2019),
+- AI Research Intern @ [JetBrains Research ML4SE lab](https://research.jetbrains.org/groups/ml_methods/) (01.07.2020 — until now),
+- AI Research Intern @ [VK Lab](https://vk.com/lab) (01.10.2020 — until now).
 
 More about work experience and several certificates in my [LinkedIn](https://www.linkedin.com/in/maxim-zubkov-8808421b1/).
 
