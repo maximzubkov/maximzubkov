@@ -1,7 +1,7 @@
 
 ### Hi, my name is Maxim 👋
 
-[![Linkedin: maximzubkov](https://img.shields.io/badge/maximzubkov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxim-zubkov-8808421b1/)](https://www.linkedin.com/in/maxim-zubkov-8808421b1/)
+[![Linkedin: maximzubkov](https://img.shields.io/badge/maximzubkov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zubkovmd/)](https://www.linkedin.com/in/zubkovmd/)
 ![Profile views](https://gpvc.arturio.dev/maximzubkov)
 
 I’m currently doing a Bachalor’s degree in Applied Mathematics and Computer Science at [MIPT](https://mipt.ru/english/). I’m also working as a Deep Learning Inter at VK Lab and JetBrains Research.
@@ -11,7 +11,7 @@ I’m currently doing a Bachalor’s degree in Applied Mathematics and Computer 
 - AI Research Intern @ [JetBrains Research ML4SE lab](https://research.jetbrains.org/groups/ml_methods/) (01.07.2020 — until now),
 - AI Research Intern @ [VK Lab](https://vk.com/lab) (01.10.2020 — until now).
 
-More about work experience and certificates can be found in my [LinkedIn](https://www.linkedin.com/in/maxim-zubkov-8808421b1/).
+More about work experience and certificates can be found in my [LinkedIn](https://www.linkedin.com/in/zubkovmd/).
 
 ### Github Stats
 [![Maxim Zubkovs' github stats](https://github-readme-stats.vercel.app/api?username=maximzubkov)](https://github.com/anuraghazra/github-readme-stats)
