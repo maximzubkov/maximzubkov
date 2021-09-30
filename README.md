@@ -1,5 +1,5 @@
 
-### Hi, my name is Maxim 👋
+### Hi, my name is Maksim 👋
 
 [![Linkedin: maximzubkov](https://img.shields.io/badge/zubkovmd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zubkovmd/)](https://www.linkedin.com/in/zubkovmd/)
 ![Profile views](https://gpvc.arturio.dev/maximzubkov)
