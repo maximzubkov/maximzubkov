@@ -9,7 +9,7 @@ I’m currently doing a Bachelor's degree in Applied Mathematics and Computer Sc
 ### Work experience
 - Data science intern @ [Tinkoff Bank](https://www.tinkoff.ru/eng/) (01.07.2019 — 01.09.2019),
 - AI Research Intern @ [JetBrains Research ML4SE lab](https://research.jetbrains.org/groups/ml_methods/) (01.07.2020 — 25.10.2021),
-- AI Research Intern @ [VK Lab](https://vk.com/lab) (01.10.2020 — 05.10.2021).
+- AI Research Intern @ [VK Lab](https://vk.com/lab) (01.10.2020 — 05.10.2021),
 - AI Researcher @ [Distributed Information Systems Laboratory, EPFL](https://www.epfl.ch/labs/lsir/) (01.09.2021 — present).
 
 More about work experience and certificates can be found in my [LinkedIn](https://www.linkedin.com/in/zubkovmd/).
