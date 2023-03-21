@@ -12,7 +12,7 @@ I’m currently doing a Master's degree in Data Science at [EPFL](https://www.ep
 - AI Research Intern @ [VK Lab](https://vk.com/lab) (01.10.2020 — 05.10.2021),
 - AI Researcher @ [Distributed Information Systems Laboratory, EPFL](https://www.epfl.ch/labs/lsir/) (01.09.2021 — present).
 - Semester Project @ [NLP Laboratory, EPFL](https://atcbosselut.github.io/#group) (15.08.2022 — 01.02.2023).
-- Juniour MLE @ [Visium](https://visium.ch) (15.02.2023 — present).
+- Junior MLE @ [Visium](https://visium.ch) (15.02.2023 — present).
 
 More about work experience and certificates can be found in my [LinkedIn](https://www.linkedin.com/in/zubkovmd/).
 
