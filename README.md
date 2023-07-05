@@ -13,6 +13,7 @@ I’m currently doing a Master's degree in Data Science at [EPFL](https://www.ep
 - AI Researcher @ [Distributed Information Systems Laboratory, EPFL](https://www.epfl.ch/labs/lsir/) (01.09.2021 — present).
 - Semester Project @ [NLP Laboratory, EPFL](https://atcbosselut.github.io/#group) (15.08.2022 — 01.02.2023).
 - Junior MLE @ [Visium](https://visium.ch) (15.02.2023 — present).
+- Co-founder & CEO @ [To The Point](https://tothepoint.tech) (01.11.2022 — present).
 
 More about work experience and certificates can be found in my [LinkedIn](https://www.linkedin.com/in/zubkovmd/).
 
