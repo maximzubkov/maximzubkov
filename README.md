@@ -2,7 +2,6 @@
 ### Hi, my name is Maksim 👋
 
 [![Linkedin: maximzubkov](https://img.shields.io/badge/zubkovmd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zubkovmd/)](https://www.linkedin.com/in/zubkovmd/)
-![Profile views](https://gpvc.arturio.dev/maximzubkov)
 
 I’m currently doing a Master's degree in Data Science at [EPFL](https://www.epfl.ch/en/), recieved a Bachelor's degree in Applied Mathematics and Computer Science at [MIPT](https://mipt.ru/english/).
 
