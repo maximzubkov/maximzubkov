@@ -9,7 +9,7 @@ I’m currently doing a Master's degree in Data Science at [EPFL](https://www.ep
 - Data science intern @ [Tinkoff Bank](https://www.tinkoff.ru/eng/) (01.07.2019 — 01.09.2019),
 - AI Research Intern @ [JetBrains Research ML4SE lab](https://research.jetbrains.org/groups/ml_methods/) (01.07.2020 — 25.10.2021),
 - AI Research Intern @ [VK Lab](https://vk.com/lab) (01.10.2020 — 05.10.2021),
-- AI Researcher @ [Distributed Information Systems Laboratory, EPFL](https://www.epfl.ch/labs/lsir/) (01.09.2021 — present).
+- Research Scholar @ [Distributed Information Systems Laboratory, EPFL](https://www.epfl.ch/labs/lsir/) (01.09.2021 — 01.03.2023).
 - Semester Project @ [NLP Laboratory, EPFL](https://atcbosselut.github.io/#group) (15.08.2022 — 01.02.2023).
 - Junior MLE @ [Visium](https://visium.ch) (15.02.2023 — 01.09.2023).
 - Co-founder & CEO @ [To The Point](https://tothepoint.tech) (01.11.2022 — 01.09.2023).
