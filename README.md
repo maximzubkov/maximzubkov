@@ -13,9 +13,13 @@ I’m currently doing a Master's degree in Data Science at [EPFL](https://www.ep
 - Semester Project @ [NLP Laboratory, EPFL](https://atcbosselut.github.io/#group) (15.08.2022 — 01.02.2023).
 - Junior MLE @ [Visium](https://visium.ch) (15.02.2023 — 01.09.2023).
 - Co-founder & CEO @ [To The Point](https://tothepoint.tech) (01.11.2022 — 01.09.2023).
-- Master Thesis @ [Distributed Information Systems Laboratory, EPFL](https://www.epfl.ch/labs/lsir/) & [Google](https://www.google.com/) (01.09.2023 — present).
+- Co-founder & CEO @ [Bijection](https://bijection.tech) (01.11.2022 — 01.09.2023).
+- Master Thesis @ [Distributed Information Systems Laboratory, EPFL](https://www.epfl.ch/labs/lsir/) & [Google](https://www.google.com/) (01.09.2023 — 25.01.2024).
 
 More about my experience: [LinkedIn](https://www.linkedin.com/in/zubkovmd/).
+
+👯 looking to collaborate on the project in the domain of AI-enhanced software engineering  
+
 
 ### Github Stats
 [![Maxim Zubkovs' github stats](https://github-readme-stats.vercel.app/api?username=maximzubkov)](https://github.com/anuraghazra/github-readme-stats)
