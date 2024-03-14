@@ -3,7 +3,8 @@
 
 [![Linkedin: maximzubkov](https://img.shields.io/badge/zubkovmd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zubkovmd/)](https://www.linkedin.com/in/zubkovmd/)
 
-I’m currently doing a Master's degree in Data Science at [EPFL](https://www.epfl.ch/en/), recieved a Bachelor's degree in Applied Mathematics and Computer Science at [MIPT](https://mipt.ru/english/).
+M.Sc. in Data Science from [EPFL](https://www.epfl.ch/en/)
+B.Sc. in Applied Mathematics and Computer Science from [MIPT](https://mipt.ru/english/).
 
 ### Work experience
 - Data science intern @ [Tinkoff Bank](https://www.tinkoff.ru/eng/) (01.07.2019 — 01.09.2019),
