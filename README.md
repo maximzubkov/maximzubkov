@@ -16,6 +16,7 @@ B.Sc. in Applied Mathematics and Computer Science from [MIPT](https://mipt.ru/en
 - Co-founder & CEO @ [To The Point](https://tothepoint.tech) (01.11.2022 — 01.09.2023).
 - Co-founder & CEO @ [Bijection](https://bijection.tech) (01.09.2023 — present).
 - Master Thesis @ [Distributed Information Systems Laboratory, EPFL](https://www.epfl.ch/labs/lsir/) & [Google](https://www.google.com/) (01.09.2023 — 25.01.2024).
+- MLE @ [DeepJudge](https://deepjudge.ai) (19.03.2024 - present).
 
 More about my experience: [LinkedIn](https://www.linkedin.com/in/zubkovmd/).
 
