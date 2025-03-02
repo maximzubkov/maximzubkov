@@ -20,9 +20,6 @@ B.Sc. in Applied Mathematics and Computer Science from [MIPT](https://mipt.ru/en
 
 More about my experience: [LinkedIn](https://www.linkedin.com/in/zubkovmd/).
 
-👯 looking to collaborate on the project in the domain of AI-enhanced software engineering  
-
-
 ### Github Stats
 [![Maxim Zubkovs' github stats](https://github-readme-stats.vercel.app/api?username=maximzubkov)](https://github.com/anuraghazra/github-readme-stats)
 
